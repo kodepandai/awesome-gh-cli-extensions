@@ -21,6 +21,7 @@ Table of Contents
 * [**user-status**](https://github.com/vilmibm/gh-user-status) - Set and get github user statuses.
 
 ## Tool
+* [**f**](https://github.com/gennaro-tedesco/gh-f) - The ultimate compact fzf gh extension.
 * [**fire**](https://github.com/maximousblk/gh-fire) - Extention that helps in the event of an emergency.
 * [**fzrepo**](https://github.com/sheepla/gh-fzrepo) - Extension for GitHub CLI to browse repositories with fzf.
 * [**gp**](https://github.com/gitpod-io/gh-gp) - Extension to work with GitHub repositories with Gitpod.
