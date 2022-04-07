@@ -15,6 +15,7 @@ Table of Contents
 
 ## Github
 * [**bump**](https://github.com/johnmanjiro13/gh-bump) - Extension for bumping version of a repository.
+* [**dash**](https://github.com/dlvhdr/gh-dash) - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI. 
 * [**label**](https://github.com/heaths/gh-label) - Extension for issue label management.
 * [**pulls**](https://github.com/AaronMoat/gh-pulls) - View all open pull requests you have created.
 * [**user-status**](https://github.com/vilmibm/gh-user-status) - Set and get github user statuses.
