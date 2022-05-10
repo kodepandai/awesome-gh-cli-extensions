@@ -24,8 +24,11 @@ Table of Contents
 * [**f**](https://github.com/gennaro-tedesco/gh-f) - The ultimate compact fzf gh extension.
 * [**fire**](https://github.com/maximousblk/gh-fire) - Extention that helps in the event of an emergency.
 * [**fzrepo**](https://github.com/sheepla/gh-fzrepo) - Extension for GitHub CLI to browse repositories with fzf.
+* [**markdown-preview**](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 * [**gp**](https://github.com/gitpod-io/gh-gp) - Extension to work with GitHub repositories with Gitpod.
+* [**grep**](https://github.com/k1LoW/gh-grep) - Print lines matching a pattern in repositories using GitHub API.
 * [**releaser**](https://github.com/carlsberg/gh-releaser) - Extension to simplify starting and closing releases in GitFlow-based projects.
+* [**s**](https://github.com/gennaro-tedesco/gh-s) - Search GitHub repositories interactively from the command line.
 * [**repo-explore**](https://github.com/samcoe/gh-repo-explore) - Extension to interactively explore a repo without cloning.
 * [**timer**](https://github.com/anmalkov/gh-timer) - Extension that runs a timer or stopwatch.
 
