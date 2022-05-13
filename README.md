@@ -19,6 +19,7 @@ Table of Contents
 * [**label**](https://github.com/heaths/gh-label) - Extension for issue label management.
 * [**pulls**](https://github.com/AaronMoat/gh-pulls) - View all open pull requests you have created.
 * [**user-status**](https://github.com/vilmibm/gh-user-status) - Set and get github user statuses.
+* [**net**](https://github.com/github/gh-net) - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
 
 ## Tool
 * [**f**](https://github.com/gennaro-tedesco/gh-f) - The ultimate compact fzf gh extension.
