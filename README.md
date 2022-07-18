@@ -1,4 +1,4 @@
-# Awesome Github CLI Extensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome Github CLI Extensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Learn more about github cli extensions [here](https://cli.github.com).
 
@@ -19,9 +19,10 @@ Table of Contents
 
 ## Github
 * [**bump**](https://github.com/johnmanjiro13/gh-bump) - Extension for bumping version of a repository.
-* [**dash**](https://github.com/dlvhdr/gh-dash) - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI. 
+* [**dash**](https://github.com/dlvhdr/gh-dash) - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 * [**label**](https://github.com/heaths/gh-label) - Extension for issue label management.
 * [**notify**](https://github.com/meiji163/gh-notify) - Extension to display GitHub notifications.
+* [**milestone**](https://github.com/valeriobelli/gh-milestone) - GitHub CLI extension for managing milestones.
 * [**pulls**](https://github.com/AaronMoat/gh-pulls) - View all open pull requests you have created.
 * [**sql**](https://github.com/KOBA789/gh-sql) -  Query GitHub Projects (beta) with SQL.
 * [**token**](https://github.com/Link-/gh-token) -  Create an installation access token for a GitHub app from your terminal.
