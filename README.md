@@ -4,6 +4,8 @@ Learn more about github cli extensions [here](https://cli.github.com).
 
 Or start creating new extension [here](https://docs.github.com/en/github-cli/github-cli/creating-github-cli-extensions).
 
+See all public repositories matching `gh-extension` topic [here](https://github.com/topics/gh-extension).
+
 Table of Contents
 =================
 * [Git](#git)
