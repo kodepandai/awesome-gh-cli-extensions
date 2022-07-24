@@ -25,6 +25,7 @@ Table of Contents
 * [**label**](https://github.com/heaths/gh-label) - Extension for issue label management.
 * [**notify**](https://github.com/meiji163/gh-notify) - Extension to display GitHub notifications.
 * [**milestone**](https://github.com/valeriobelli/gh-milestone) - GitHub CLI extension for managing milestones.
+* [**org-users**](https://github.com/yermulnik/gh-org-users) - GH CLI extension to list all GutHub Org users.
 * [**pulls**](https://github.com/AaronMoat/gh-pulls) - View all open pull requests you have created.
 * [**repo-collab**](https://github.com/mislav/gh-repo-collab) - Extension to manage repository collaborators.
 * [**sql**](https://github.com/KOBA789/gh-sql) -  Query GitHub Projects (beta) with SQL.
