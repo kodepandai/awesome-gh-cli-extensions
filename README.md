@@ -19,11 +19,14 @@ Table of Contents
 
 ## Github
 * [**bump**](https://github.com/johnmanjiro13/gh-bump) - Extension for bumping version of a repository.
+* [**combine-prs**](https://github.com/rnorth/gh-combine-prs) - An extension for GitHub CLI that combines multiple PRs into one.
 * [**dash**](https://github.com/dlvhdr/gh-dash) - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+* [**gei**](https://github.com/github/gh-gei) - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 * [**label**](https://github.com/heaths/gh-label) - Extension for issue label management.
 * [**notify**](https://github.com/meiji163/gh-notify) - Extension to display GitHub notifications.
 * [**milestone**](https://github.com/valeriobelli/gh-milestone) - GitHub CLI extension for managing milestones.
 * [**pulls**](https://github.com/AaronMoat/gh-pulls) - View all open pull requests you have created.
+* [**repo-collab**](https://github.com/mislav/gh-repo-collab) - Extension to manage repository collaborators.
 * [**sql**](https://github.com/KOBA789/gh-sql) -  Query GitHub Projects (beta) with SQL.
 * [**token**](https://github.com/Link-/gh-token) -  Create an installation access token for a GitHub app from your terminal.
 * [**user-status**](https://github.com/vilmibm/gh-user-status) - Set and get github user statuses.
@@ -31,7 +34,10 @@ Table of Contents
 
 ## Tool
 * [**changelog**](https://github.com/chelnak/gh-changelog) - Extension for creating changelogs that adhere to the [keep a changelog](https://keepachangelog.com/en/1.0.0/) specification.
+* [**clone-org**](https://github.com/matt-bartel/gh-clone-org) - Extension script to clone all repositories in an organization.
 * [**cp**](https://github.com/mislav/gh-cp) - Extension to copy a file from a GitHub repository locally without cloning the repository.
+* [**download**](https://github.com/yuler/gh-download) - Extension to download folders/files without cloning the repository.
+* [**eco**](https://github.com/thatvegandev/gh-eco) - Extension to explore github ecosystem, like github profile, etc.
 * [**f**](https://github.com/gennaro-tedesco/gh-f) - The ultimate compact fzf gh extension.
 * [**fire**](https://github.com/maximousblk/gh-fire) - Extention that helps in the event of an emergency.
 * [**fzrepo**](https://github.com/sheepla/gh-fzrepo) - Extension for GitHub CLI to browse repositories with fzf.
