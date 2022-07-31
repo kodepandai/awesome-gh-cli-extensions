@@ -25,6 +25,7 @@ Table of Contents
 * [**dash**](https://github.com/dlvhdr/gh-dash) - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 * [**gei**](https://github.com/github/gh-gei) - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 * [**label**](https://github.com/heaths/gh-label) - Extension for issue label management.
+* [**metrics**](https://github.com/hectcastro/gh-metrics) - Extension that provides summary pull request metrics.
 * [**milestone**](https://github.com/valeriobelli/gh-milestone) - GitHub CLI extension for managing milestones.
 * [**net**](https://github.com/github/gh-net) - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
 * [**notify**](https://github.com/meiji163/gh-notify) - Extension to display GitHub notifications.
