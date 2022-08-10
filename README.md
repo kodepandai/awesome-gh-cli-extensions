@@ -20,6 +20,7 @@ Table of Contents
 * [**tidy**](https://github.com/HaywardMorihara/gh-tidy) - Extension for tidying your Git workspace.
 
 ## Github
+* [**actions-cache**](https://github.com/actions/gh-actions-cache) - Extension to manage the GitHub Actions caches being used in a GitHub repository.
 * [**bump**](https://github.com/johnmanjiro13/gh-bump) - Extension for bumping version of a repository.
 * [**combine-prs**](https://github.com/rnorth/gh-combine-prs) - An extension for GitHub CLI that combines multiple PRs into one.
 * [**dash**](https://github.com/dlvhdr/gh-dash) - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
