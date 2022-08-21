@@ -16,7 +16,7 @@ Table of Contents
 ## Git
 * [**branch**](https://github.com/mislav/gh-branch) - Extension for fuzzy finding, quickly switching between and deleting branches.
 * [**clean-branches**](https://github.com/davidraviv/gh-clean-branches) - Safely delete local branches that have no remotes and no hanging changes.
-* [**ploi**](https://github.com/seachicken/gh-poi) - Safely clean up your local branches.
+* [**poi**](https://github.com/seachicken/gh-poi) - Safely clean up your local branches.
 * [**tidy**](https://github.com/HaywardMorihara/gh-tidy) - Extension for tidying your Git workspace.
 
 ## Github
