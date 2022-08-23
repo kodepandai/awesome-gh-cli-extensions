@@ -33,6 +33,7 @@ Table of Contents
 * [**org-users**](https://github.com/yermulnik/gh-org-users) - GH CLI extension to list all GutHub Org users.
 * [**pulls**](https://github.com/AaronMoat/gh-pulls) - View all open pull requests you have created.
 * [**repo-collab**](https://github.com/mislav/gh-repo-collab) - Extension to manage repository collaborators.
+* [**stars**](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal.
 * [**sql**](https://github.com/KOBA789/gh-sql) -  Query GitHub Projects (beta) with SQL.
 * [**token**](https://github.com/Link-/gh-token) -  Create an installation access token for a GitHub app from your terminal.
 * [**user-status**](https://github.com/vilmibm/gh-user-status) - Set and get github user statuses.
