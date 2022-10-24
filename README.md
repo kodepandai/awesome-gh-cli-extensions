@@ -39,7 +39,6 @@ Table of Contents
 * [**user-status**](https://github.com/vilmibm/gh-user-status) - Set and get github user statuses.
 
 ## Tool
-* [**GH-PY**](https://github.com/JessicaTegner/gh-py) - Write gh extensions from python, that's portable, with full support for installing packages.
 * [**changelog**](https://github.com/chelnak/gh-changelog) - Extension for creating changelogs that adhere to the [keep a changelog](https://keepachangelog.com/en/1.0.0/) specification.
 * [**clone-org**](https://github.com/matt-bartel/gh-clone-org) - Extension script to clone all repositories in an organization.
 * [**cp**](https://github.com/mislav/gh-cp) - Extension to copy a file from a GitHub repository locally without cloning the repository.
@@ -52,6 +51,7 @@ Table of Contents
 * [**grep**](https://github.com/k1LoW/gh-grep) - Print lines matching a pattern in repositories using GitHub API.
 * [**install**](https://github.com/redraw/gh-install) - Install GitHub release binaries from the CLI interactively.
 * [**markdown-preview**](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
+* [**py**](https://github.com/JessicaTegner/gh-py) - Write gh extensions from python, that's portable, with full support for installing packages.
 * [**releaser**](https://github.com/carlsberg/gh-releaser) - Extension to simplify starting and closing releases in GitFlow-based projects.
 * [**repo-explore**](https://github.com/samcoe/gh-repo-explore) - Extension to interactively explore a repo without cloning.
 * [**resto**](https://github.com/abdfnx/gh-resto) - a CLI app to send HTTP and API requests with beautiful TUI.
