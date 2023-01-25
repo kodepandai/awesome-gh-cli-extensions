@@ -77,6 +77,7 @@ Table of Contents
 * [**bofh**](https://github.com/fundor333/gh-bofh) - Because you need a BOFH inside GH.
 * [**chat**](https://github.com/vilmibm/gh-chat) - Chatting in the github cli.
 * [**contrib**](https://github.com/mislav/gh-contrib) - Extension to render your contribution graph in the terminal.
+* [**contribs**](https://github.com/mintarchit/gh-contribs) - Show Github contribution graph via cli
 * [**graph**](https://github.com/kawarimidoll/gh-graph) - Display GitHub contribution graph in your terminal.
 * [**inspire**](https://github.com/lakuapik/gh-inspire) - Get inspiration quotes from github cli.
 * [**oblique**](https://github.com/vilmibm/gh-oblique) - Extension that prints one of the oblique strategies.
