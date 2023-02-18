@@ -29,6 +29,7 @@ Table of Contents
 * [**eco**](https://github.com/thatvegandev/gh-eco) - Extension to explore github ecosystem, like github profile, etc.
 * [**gei**](https://github.com/github/gh-gei) - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 * [**get-asset**](https://github.com/chmouel/gh-get-asset) - Fetch an asset (ie: binary) from a GitHub release.
+* [**gitignore**](https://github.com/garnertb/gh-gitignore) - Load gitignore files from GitHub into your project.
 * [**hook**](https://github.com/lucasmelin/gh-hook) - Extension to easily manage your github repository webhooks.
 * [**label**](https://github.com/heaths/gh-label) - Extension for issue label management.
 * [**look**](https://github.com/LangLangBart/gh-look) - Interactive gh tool: drop an emoji, write comments, star repositories, etc.
