@@ -72,6 +72,7 @@ Table of Contents
 * [**semver**](https://github.com/koozz/gh-semver) - This GitHub CLI extension can be used determine the semantic version to release.
 * [**timer**](https://github.com/anmalkov/gh-timer) - Extension that runs a timer or stopwatch.
 * [**user-stars**](https://github.com/korosuke613/gh-user-stars) - Extension that displays an interactive list of your github stars.
+* [**validate-repo**](https://github.com/govindsme/gh-validate-repo) - Extension that validates a cloned reposiory against a list of checks.
 * [**workon**](https://github.com/chmouel/gh-workon/) - Create a branch or a commit message from an issue title and assign yourself to it. 
 
 ## Fun
