@@ -40,6 +40,7 @@ Table of Contents
 * [**notify**](https://github.com/meiji163/gh-notify) - Extension to display GitHub notifications.
 * [**org-users**](https://github.com/yermulnik/gh-org-users) - GH CLI extension to list all GitHub Org users.
 * [**profile**](https://github.com/gabe565/gh-profile) - Extension that allows you to use multiple GitHub accounts with the gh cli.
+* [**projects**](https://github.com/github/gh-projects) - Official extension for managing your github projects.
 * [**pulls**](https://github.com/AaronMoat/gh-pulls) - View all open pull requests you have created.
 * [**repo-collab**](https://github.com/mislav/gh-repo-collab) - Extension to manage repository collaborators.
 * [**stars**](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal.
