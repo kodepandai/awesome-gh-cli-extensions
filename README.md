@@ -8,11 +8,14 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 Table of Contents
 =================
-* [Git](#git)
-* [Github](#github)
-* [Tool](#tool)
-* [Fun](#fun)
-
+- [Awesome Github CLI Extensions ](#awesome-github-cli-extensions-)
+- [Table of Contents](#table-of-contents)
+  - [Git](#git)
+  - [Github](#github)
+  - [GitHub Education](#github-education)
+  - [Tool](#tool)
+  - [Fun](#fun)
+  
 ## Git
 * [**branch**](https://github.com/mislav/gh-branch) - Extension for fuzzy finding, quickly switching between and deleting branches.
 * [**clean-branches**](https://github.com/davidraviv/gh-clean-branches) - Safely delete local branches that have no remotes and no hanging changes.
@@ -48,6 +51,14 @@ Table of Contents
 * [**token**](https://github.com/Link-/gh-token) -  Create an installation access token for a GitHub app from your terminal.
 * [**user-status**](https://github.com/vilmibm/gh-user-status) - Set and get github user statuses.
 * [**xplr**](https://github.com/sayanarijit/gh-xplr) - Explore GitHub repos using xplr via GitHub CLI.
+
+## GitHub Education
+
+* [**classroom**](https://github.com/github/gh-classroom) - Official extension for GitHub Classroom.
+* [**org-clone**](https://github.com/gh-cli-for-education/gh-org-clone) - Clone GitHub Classroom assignments in an easy way
+* [**org-browse-repo**](https://github.com/gh-cli-for-education/gh-org-browse-repo) -  Browse adn get stats from student repos 
+* [**org-members**](https://github.com/gh-cli-for-education/gh-org-members) - Obtain  information about the students of a GitHub classroom organization
+* [**org-teams**](https://github.com/gh-cli-for-education/gh-org-teams) - Get info about the teams of a GitHub classroom organization
 
 ## Tool
 * [**changelog**](https://github.com/chelnak/gh-changelog) - Extension for creating changelogs that adhere to the [keep a changelog](https://keepachangelog.com/en/1.0.0/) specification.
