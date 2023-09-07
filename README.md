@@ -56,7 +56,7 @@ Table of Contents
 
 * [**classroom**](https://github.com/github/gh-classroom) - Official extension for GitHub Classroom.
 * [**org-clone**](https://github.com/gh-cli-for-education/gh-org-clone) - Clone GitHub Classroom assignments in an easy way
-* [**org-browse-repo**](https://github.com/gh-cli-for-education/gh-org-browse-repo) -  Browse adn get stats from student repos 
+* [**org-browse-repo**](https://github.com/gh-cli-for-education/gh-org-browse-repo) -  Browse and get stats from student repos 
 * [**org-members**](https://github.com/gh-cli-for-education/gh-org-members) - Obtain  information about the students of a GitHub classroom organization
 * [**org-teams**](https://github.com/gh-cli-for-education/gh-org-teams) - Get info about the teams of a GitHub classroom organization
 
