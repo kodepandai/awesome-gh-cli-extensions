@@ -22,6 +22,7 @@ Table of Contents
 - [**clean-branches**](https://github.com/davidraviv/gh-clean-branches) - Safely delete local branches that have no remotes and no hanging changes.
 - [**poi**](https://github.com/seachicken/gh-poi) - Safely clean up your local branches.
 - [**tidy**](https://github.com/HaywardMorihara/gh-tidy) - Extension for tidying your Git workspace.
+- [**subrepo**](https://github.com/teaglebuilt/gh-subrepo) - Extension for managing git submodules
 
 ## Github
 
