@@ -30,6 +30,7 @@ Table of Contents
 - [**actions-status**](https://github.com/rsese/gh-actions-status) - An extension to view the overall health of an organization's use of actions.
 - [**bump**](https://github.com/johnmanjiro13/gh-bump) - Extension for bumping version of a repository.
 - [**combine-prs**](https://github.com/rnorth/gh-combine-prs) - An extension for GitHub CLI that combines multiple PRs into one.
+- [**copilot-review**](https://github.com/ChrisCarini/gh-copilot-review) - Extension to request a [Copilot code review](https://github.blog/changelog/2025-04-04-copilot-code-review-now-generally-available/) on a PR.
 - [**cp**](https://github.com/mislav/gh-cp) - Extension to copy a file from a GitHub repository locally without cloning the repository.
 - [**dash**](https://github.com/dlvhdr/gh-dash) - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 - [**eco**](https://github.com/thatvegandev/gh-eco) - Extension to explore github ecosystem, like github profile, etc.
