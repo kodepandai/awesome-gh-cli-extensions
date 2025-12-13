@@ -39,6 +39,7 @@ Table of Contents
 - [**gr**](https://github.com/sarumaj/gh-gr) - Pull, push and check status on multiple GitHub repositories at once.
 - [**hook**](https://github.com/lucasmelin/gh-hook) - Extension to easily manage your github repository webhooks.
 - [**label**](https://github.com/heaths/gh-label) - Extension for issue label management.
+- [**label-sync**](https://github.com/scttfrdmn/gh-label-sync) - Extension for bulk label management and synchronization from YAML/JSON/CSV files.
 - [**look**](https://github.com/LangLangBart/gh-look) - Interactive gh tool: drop an emoji, write comments, star repositories, etc.
 - [**ls**](https://github.com/wuwe1/gh-ls) - GitHub CLI to list contents of GitHub repo.
 - [**metrics**](https://github.com/hectcastro/gh-metrics) - Extension that provides summary pull request metrics.
