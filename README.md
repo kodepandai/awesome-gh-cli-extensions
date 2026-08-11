@@ -40,6 +40,7 @@ Table of Contents
 - [**gitignore**](https://github.com/garnertb/gh-gitignore) - Load gitignore files from GitHub into your project.
 - [**gr**](https://github.com/sarumaj/gh-gr) - Pull, push and check status on multiple GitHub repositories at once.
 - [**hook**](https://github.com/lucasmelin/gh-hook) - Extension to easily manage your github repository webhooks.
+- [**image**](https://github.com/drogers0/gh-image) - Upload local images to GitHub from the terminal, producing user-attachments URLs that work in issues, PRs, and READMEs.
 - [**label**](https://github.com/heaths/gh-label) - Extension for issue label management.
 - [**label-sync**](https://github.com/scttfrdmn/gh-label-sync) - Extension for bulk label management and synchronization from YAML/JSON/CSV files.
 - [**look**](https://github.com/LangLangBart/gh-look) - Interactive gh tool: drop an emoji, write comments, star repositories, etc.
