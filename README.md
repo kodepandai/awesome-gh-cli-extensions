@@ -41,10 +41,12 @@ Table of Contents
 - [**gr**](https://github.com/sarumaj/gh-gr) - Pull, push and check status on multiple GitHub repositories at once.
 - [**hook**](https://github.com/lucasmelin/gh-hook) - Extension to easily manage your github repository webhooks.
 - [**label**](https://github.com/heaths/gh-label) - Extension for issue label management.
+- [**label-sync**](https://github.com/scttfrdmn/gh-label-sync) - Extension for bulk label management and synchronization from YAML/JSON/CSV files.
 - [**look**](https://github.com/LangLangBart/gh-look) - Interactive gh tool: drop an emoji, write comments, star repositories, etc.
 - [**ls**](https://github.com/wuwe1/gh-ls) - GitHub CLI to list contents of GitHub repo.
 - [**metrics**](https://github.com/hectcastro/gh-metrics) - Extension that provides summary pull request metrics.
 - [**milestone**](https://github.com/valeriobelli/gh-milestone) - GitHub CLI extension for managing milestones.
+- [**milestone-manager**](https://github.com/scttfrdmn/gh-milestone-manager) - Comprehensive milestone management with beautiful formatting, close/reopen commands, and detailed progress tracking.
 - [**net**](https://github.com/github/gh-net) - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
 - [**notify**](https://github.com/meiji163/gh-notify) - Extension to display GitHub notifications.
 - [**org-users**](https://github.com/yermulnik/gh-org-users) - GH CLI extension to list all GitHub Org users.
