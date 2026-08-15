@@ -92,7 +92,7 @@ Table of Contents
 - [**grep**](https://github.com/k1LoW/gh-grep) - Print lines matching a pattern in repositories using GitHub API.
 - [**home**](https://github.com/norwd/gh-home) - GitHub CLI extension to checkout main and pull.
 - [**install**](https://github.com/redraw/gh-install) - Install GitHub release binaries from the CLI interactively.
-- [**lockvet**](https://github.com/matteo-sung/gh-lockvet) - Vet the PR you're standing in for dependency risk: reads lockfile changes (36 formats) and flags vulnerabilities, malware shapes, typosquats and tampering.
+- [**lockvet**](https://github.com/matteo-sung/gh-lockvet) - Vet the PR you're standing in for dependency risk: reads lockfile/manifest changes across dozens of formats and flags vulnerabilities, malware shapes, typosquats and tampering.
 - [**markdown-preview**](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [**py**](https://github.com/JessicaTegner/gh-py) - Write gh extensions from python, that's portable, with full support for installing packages.
 - [**releaser**](https://github.com/carlsberg/gh-releaser) - Extension to simplify starting and closing releases in GitFlow-based projects.
