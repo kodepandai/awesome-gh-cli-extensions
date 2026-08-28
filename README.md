@@ -78,6 +78,7 @@ Table of Contents
 ## Tool
 
 - [**akf**](https://github.com/HMAKT99/gh-akf) - The AI native file format. Stamp files with trust scores, provenance, and compliance metadata. Certify changed files, generate trust reports for PRs.
+- [**before-you-contribute**](https://github.com/SirHegel/gh-before-you-contribute) - Audit AI contribution policies and whether an issue is already taken before writing code.
 - [**changelog**](https://github.com/chelnak/gh-changelog) - Extension for creating changelogs that adhere to the [keep a changelog](https://keepachangelog.com/en/1.0.0/) specification.
 - [**cl**](https://github.com/tmkx/gh-cl) - Get changelog of npm packages fastly.
 - [**clone-org**](https://github.com/matt-bartel/gh-clone-org) - Extension script to clone all repositories in an organization.
