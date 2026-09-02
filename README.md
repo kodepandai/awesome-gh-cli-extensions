@@ -77,6 +77,7 @@ Table of Contents
 
 ## Tool
 
+- [**agents-md**](https://github.com/sunxiayi/gh-agents-md) - Audit and generate evidence-based `AGENTS.md` files for the current GitHub repository.
 - [**akf**](https://github.com/HMAKT99/gh-akf) - The AI native file format. Stamp files with trust scores, provenance, and compliance metadata. Certify changed files, generate trust reports for PRs.
 - [**changelog**](https://github.com/chelnak/gh-changelog) - Extension for creating changelogs that adhere to the [keep a changelog](https://keepachangelog.com/en/1.0.0/) specification.
 - [**cl**](https://github.com/tmkx/gh-cl) - Get changelog of npm packages fastly.
