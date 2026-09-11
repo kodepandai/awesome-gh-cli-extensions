@@ -36,6 +36,7 @@ Table of Contents
 - [**dash**](https://github.com/dlvhdr/gh-dash) - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 - [**dep-risk**](https://github.com/rad1092/gh-dep-risk) - Extension for on-demand npm dependency pull request risk review.
 - [**eco**](https://github.com/thatvegandev/gh-eco) - Extension to explore github ecosystem, like github profile, etc.
+- [**find**[(https://github.com/jparise/gh-find) - A `find(1)`-like utility for GitHub repositories.
 - [**gei**](https://github.com/github/gh-gei) - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 - [**get-asset**](https://github.com/chmouel/gh-get-asset) - Fetch an asset (ie: binary) from a GitHub release.
 - [**gitignore**](https://github.com/garnertb/gh-gitignore) - Load gitignore files from GitHub into your project.
