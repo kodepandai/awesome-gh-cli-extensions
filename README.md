@@ -46,6 +46,7 @@ Table of Contents
 - [**label-sync**](https://github.com/scttfrdmn/gh-label-sync) - Extension for bulk label management and synchronization from YAML/JSON/CSV files.
 - [**look**](https://github.com/LangLangBart/gh-look) - Interactive gh tool: drop an emoji, write comments, star repositories, etc.
 - [**ls**](https://github.com/wuwe1/gh-ls) - GitHub CLI to list contents of GitHub repo.
+- [**megamerge**](https://github.com/carldaws/gh-megamerge) - Keep one target branch merged from many source branches.
 - [**metrics**](https://github.com/hectcastro/gh-metrics) - Extension that provides summary pull request metrics.
 - [**milestone**](https://github.com/valeriobelli/gh-milestone) - GitHub CLI extension for managing milestones.
 - [**milestone-manager**](https://github.com/scttfrdmn/gh-milestone-manager) - Comprehensive milestone management with beautiful formatting, close/reopen commands, and detailed progress tracking.
