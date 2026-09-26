@@ -51,6 +51,7 @@ Table of Contents
 - [**milestone-manager**](https://github.com/scttfrdmn/gh-milestone-manager) - Comprehensive milestone management with beautiful formatting, close/reopen commands, and detailed progress tracking.
 - [**net**](https://github.com/github/gh-net) - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
 - [**notify**](https://github.com/meiji163/gh-notify) - Extension to display GitHub notifications.
+- [**odds**](https://github.com/CedricConday/gh-odds) - Contributor-side merge odds for a repository (outsider merge rate, time to first response and to merge, who merges, 30-day liveness) and a triage board of your own open PRs.
 - [**org-users**](https://github.com/yermulnik/gh-org-users) - GH CLI extension to list all GitHub Org users.
 - [**outagedeck**](https://github.com/outagedeck/gh-outagedeck) - Check GitHub and cloud/SaaS dependency status from official vendor status feeds.
 - [**pr-todo**](https://github.com/Suree33/gh-pr-todo) - Extract TODO-style comments from pull request diffs.
