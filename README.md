@@ -53,6 +53,7 @@ Table of Contents
 - [**notify**](https://github.com/meiji163/gh-notify) - Extension to display GitHub notifications.
 - [**org-users**](https://github.com/yermulnik/gh-org-users) - GH CLI extension to list all GitHub Org users.
 - [**outagedeck**](https://github.com/outagedeck/gh-outagedeck) - Check GitHub and cloud/SaaS dependency status from official vendor status feeds.
+- [**pr-radar**](https://github.com/sandeep780049/gh-pr-radar) - See every open PR you've authored across all of GitHub in one table, ranked worst-first by what needs you (conflicts, changes-requested, failing CI, staleness).
 - [**pr-todo**](https://github.com/Suree33/gh-pr-todo) - Extract TODO-style comments from pull request diffs.
 - [**profile**](https://github.com/gabe565/gh-profile) - Extension that allows you to use multiple GitHub accounts with the gh cli.
 - [**projects**](https://github.com/github/gh-projects) - Official extension for managing your github projects.
