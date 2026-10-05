@@ -54,6 +54,7 @@ Table of Contents
 - [**org-users**](https://github.com/yermulnik/gh-org-users) - GH CLI extension to list all GitHub Org users.
 - [**outagedeck**](https://github.com/outagedeck/gh-outagedeck) - Check GitHub and cloud/SaaS dependency status from official vendor status feeds.
 - [**pr-todo**](https://github.com/Suree33/gh-pr-todo) - Extract TODO-style comments from pull request diffs.
+- [**pr-watcher**](https://github.com/ezeed/gh-pr-watcher) - Keeps your open PRs up to date with their base branch and notifies you when one has a conflict to resolve by hand.
 - [**profile**](https://github.com/gabe565/gh-profile) - Extension that allows you to use multiple GitHub accounts with the gh cli.
 - [**projects**](https://github.com/github/gh-projects) - Official extension for managing your github projects.
 - [**pulls**](https://github.com/AaronMoat/gh-pulls) - View all open pull requests you have created.
