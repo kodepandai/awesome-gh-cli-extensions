@@ -96,6 +96,7 @@ Table of Contents
 - [**markdown-preview**](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [**py**](https://github.com/JessicaTegner/gh-py) - Write gh extensions from python, that's portable, with full support for installing packages.
 - [**releaser**](https://github.com/carlsberg/gh-releaser) - Extension to simplify starting and closing releases in GitFlow-based projects.
+- [**relnote**](https://github.com/loki-inu/gh-relnote) - Release notes from conventional commits in local git history; `gh relnote create TAG` publishes them as a GitHub Release.
 - [**repo-explore**](https://github.com/samcoe/gh-repo-explore) - Extension to interactively explore a repo without cloning.
 - [**resto**](https://github.com/abdfnx/gh-resto) - a CLI app to send HTTP and API requests with beautiful TUI.
 - [**s**](https://github.com/gennaro-tedesco/gh-s) - Search GitHub repositories interactively from the command line.
