@@ -59,6 +59,7 @@ Table of Contents
 - [**pulls**](https://github.com/AaronMoat/gh-pulls) - View all open pull requests you have created.
 - [**reaction**](https://github.com/ccoVeille/gh-reaction) - View recent GitHub emoji reactions on your posts and repositories, or someone else's.
 - [**repo-collab**](https://github.com/mislav/gh-repo-collab) - Extension to manage repository collaborators.
+- [**reponark**](https://github.com/admcpr/gh-reponark) - Explore and audit settings across every repository in an organization: branch protection, security alerts, merge settings and more, with a matrix view and filters.
 - [**stars**](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal.
 - [**sql**](https://github.com/KOBA789/gh-sql) - Query GitHub Projects (beta) with SQL.
 - [**sub-issue**](https://github.com/yahsan2/gh-sub-issue) - Manage sub-issues (child issues) and create hierarchical task structures by linking issues as parent-child relationships.
