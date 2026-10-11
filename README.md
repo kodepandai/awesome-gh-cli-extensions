@@ -60,6 +60,7 @@ Table of Contents
 - [**reaction**](https://github.com/ccoVeille/gh-reaction) - View recent GitHub emoji reactions on your posts and repositories, or someone else's.
 - [**repo-collab**](https://github.com/mislav/gh-repo-collab) - Extension to manage repository collaborators.
 - [**stars**](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal.
+- [**stats**](https://github.com/CanReader/gh-stats) - Extension to show stats for any user or org: repos, stars, languages with GitHub's colors and top repos.
 - [**sql**](https://github.com/KOBA789/gh-sql) - Query GitHub Projects (beta) with SQL.
 - [**sub-issue**](https://github.com/yahsan2/gh-sub-issue) - Manage sub-issues (child issues) and create hierarchical task structures by linking issues as parent-child relationships.
 - [**token**](https://github.com/Link-/gh-token) - Create an installation access token for a GitHub app from your terminal.
