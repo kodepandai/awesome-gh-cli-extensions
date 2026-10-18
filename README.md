@@ -26,6 +26,7 @@ Table of Contents
 
 ## Github
 
+- [**achievements**](https://github.com/nmloc/gh-achievements) - Show every GitHub achievement, your tier and how far the next one is, checked against GitHub's own badge history.
 - [**actions-cache**](https://github.com/actions/gh-actions-cache) - Extension to manage the GitHub Actions caches being used in a GitHub repository.
 - [**actions-status**](https://github.com/rsese/gh-actions-status) - An extension to view the overall health of an organization's use of actions.
 - [**attach**](https://github.com/sudosubin/gh-attach) - Upload files to GitHub user-attachments and get a URL from the terminal.
