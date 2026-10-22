@@ -30,6 +30,7 @@ Table of Contents
 - [**actions-status**](https://github.com/rsese/gh-actions-status) - An extension to view the overall health of an organization's use of actions.
 - [**attach**](https://github.com/sudosubin/gh-attach) - Upload files to GitHub user-attachments and get a URL from the terminal.
 - [**bump**](https://github.com/johnmanjiro13/gh-bump) - Extension for bumping version of a repository.
+- [**claimcheck**](https://github.com/RagedPanda/gh-claimcheck) - Check an issue is really free before you work on it (no open PR, no claim in the comments, project not moved), and find unclaimed issues in the libraries your project uses.
 - [**combine-prs**](https://github.com/rnorth/gh-combine-prs) - An extension for GitHub CLI that combines multiple PRs into one.
 - [**copilot-review**](https://github.com/ChrisCarini/gh-copilot-review) - Extension to request a [Copilot code review](https://github.blog/changelog/2025-04-04-copilot-code-review-now-generally-available/) on a PR.
 - [**cp**](https://github.com/mislav/gh-cp) - Extension to copy a file from a GitHub repository locally without cloning the repository.
