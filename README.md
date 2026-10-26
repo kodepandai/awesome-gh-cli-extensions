@@ -62,6 +62,7 @@ Table of Contents
 - [**stars**](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal.
 - [**sql**](https://github.com/KOBA789/gh-sql) - Query GitHub Projects (beta) with SQL.
 - [**sub-issue**](https://github.com/yahsan2/gh-sub-issue) - Manage sub-issues (child issues) and create hierarchical task structures by linking issues as parent-child relationships.
+- [**tail**](https://github.com/KimNorgaard/gh-tail) - Stream a repository's tags, branches, PRs, issues, releases and packages to the terminal, or browse them in an interactive view.
 - [**token**](https://github.com/Link-/gh-token) - Create an installation access token for a GitHub app from your terminal.
 - [**user-status**](https://github.com/vilmibm/gh-user-status) - Set and get github user statuses.
 - [**watch**](https://github.com/justincampbell/gh-watch) - Watch GitHub resources (PRs, commits, branches) for state changes.
