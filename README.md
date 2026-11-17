@@ -50,6 +50,7 @@ Table of Contents
 - [**milestone**](https://github.com/valeriobelli/gh-milestone) - GitHub CLI extension for managing milestones.
 - [**milestone-manager**](https://github.com/scttfrdmn/gh-milestone-manager) - Comprehensive milestone management with beautiful formatting, close/reopen commands, and detailed progress tracking.
 - [**net**](https://github.com/github/gh-net) - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
+- [**notif-clean**](https://github.com/eddiejaoude/gh-notif-clean) - Mark notifications as done when only bots such as Dependabot and Vercel took part, so threads with real people stand out.
 - [**notify**](https://github.com/meiji163/gh-notify) - Extension to display GitHub notifications.
 - [**org-users**](https://github.com/yermulnik/gh-org-users) - GH CLI extension to list all GitHub Org users.
 - [**outagedeck**](https://github.com/outagedeck/gh-outagedeck) - Check GitHub and cloud/SaaS dependency status from official vendor status feeds.
